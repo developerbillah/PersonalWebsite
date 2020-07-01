@@ -1,0 +1,150 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0px;
+}
+
+
+h1{
+    font-size: 50px;
+    margin-top:0px;
+    color: #202428;
+}
+
+h2{
+    font-weight: 400;
+    font-size: 45px;
+    margin-bottom: 0px;
+}
+
+
+
+section{padding: 80px 0px;}
+
+.text-highlight{
+    color: #EC4C7A;
+}
+
+.one-half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.one-half img{width: 100%;}
+
+.top-section{
+    background: url('img/header-bg.png');
+    height: 700px;
+    background-position: left;
+    background-size: cover;
+}
+
+.text-center{
+    text-align:center
+}
+
+
+
+.top-margin{
+    margin-top:80px;
+}
+
+.link-button {
+    background-image: linear-gradient(45deg,#EC5195, #ED4B72);
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 8px 20px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.biography{
+    background: url('./img/biography-bg.png');
+    height: 700px;
+    background-size: cover;
+}
+
+.latest-work{
+    background: url('./img/latest-work-bg.png');
+    height: 500px;
+    background-size: cover;
+}
+
+.single-work{
+    width:30%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1%;
+    margin-top: 100px;
+}
+
+.single-work img{width: 100%;}
+
+.client-section{
+    background: url('./img/footer-bg.png');
+    background-size: cover;
+    height: 500px;
+}
+
+.client-feedback{
+    margin-top:80px
+}
+
+.client-feedback h3{
+    margin:0px;
+}
+
+.client-feedback p{
+    margin:0px;
+}
+
+.client-feedback p span{
+    color: dimgray;
+}
+
+.client-feedback .feedback{
+    width:30%;
+    margin: 40px auto;
+    color: #333333;
+}
+
+.contact{
+    background: linear-gradient(45deg, #EC4F90, #ED4B72);
+    height: 20%;
+    width: 40%;
+    margin: auto;
+    color:white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.contact h4 {
+    font-size: 30px;
+    margin: 15px;
+    font-weight: normal;
+}
+.my-service{
+    background: url('./img/biography-bg.png');
+    background-size: cover;
+    height: 400px;
+}
+.single-service{
+    width:28%;
+    float: left;
+    margin-left: 1%;
+    padding: 5% 2%;
+    background: white;
+    box-shadow: 0 0 10px grey;
+}
+
+.my-service h2{
+    margin-bottom: 30px;
+}
+
+footer p{
+    text-align: center;
+}
